@@ -1,7 +1,7 @@
 Objectif
 --------
 
-Créer une machine virtuelle pour le déploiement local des briques ICOEUR
+Créer une machine virtuelle pour projet nfe204
 
 
 Installation
