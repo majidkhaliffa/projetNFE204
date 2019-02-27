@@ -1,7 +1,7 @@
 Objectif
 --------
 
-Créer une machine virtuelle pour projet nfe204
+Créer une machine virtuelle pour le déploiement apache kafka
 
 
 Installation
@@ -12,4 +12,4 @@ Il faut exécuter la commande
 ```
 vagrant up
 ```
-# projetNFE204
+# NFE204
